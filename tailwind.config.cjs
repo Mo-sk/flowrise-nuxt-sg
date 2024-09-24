@@ -1,7 +1,7 @@
 module.exports = {
     content: [
         './sclices/**/*.{js,ts,vue}'
-    ]
+    ],
     theme: {
         extend: {
             fontFamily: {
