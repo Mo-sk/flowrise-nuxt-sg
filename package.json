@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@fontsource-variable/nunito": "^5.1.0",
-    "@fontsource-variable/nunito-sans": "^5.1.0"
+    "@fontsource-variable/nunito-sans": "^5.1.0",
+    "@prismicio/helpers": "^2.3.9"
   }
 }
