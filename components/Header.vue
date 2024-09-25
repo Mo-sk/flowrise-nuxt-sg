@@ -8,7 +8,9 @@ const settings = useSettings();
         class="!py-4 md:!py-6 lg:!py-8"
     >
         <div class="flex gap-4 items-center justify-between sm:flex-row flex-col">
-            <Logo />
+            <NuxtLink to="/">
+                <Logo />
+            </NuxtLink>
             <nav>
                 <ul class="flex">
                     <li
