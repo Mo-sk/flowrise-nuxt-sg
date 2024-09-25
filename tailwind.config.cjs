@@ -1,6 +1,6 @@
 module.exports = {
     content: [
-        './sclices/**/*.{js,ts,vue}'
+        './slices/**/*.{js,ts,vue}'
     ],
     theme: {
         extend: {
